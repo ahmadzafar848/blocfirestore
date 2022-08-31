@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75781706047",
+    "project_id": "fir-authenticationbloc-2d185",
+    "storage_bucket": "fir-authenticationbloc-2d185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75781706047:android:971b48dadbf125be74438a",
+        "android_client_info": {
+          "package_name": "com.example.bloc_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75781706047-93eponk2sl8aunn6i7rau7ns4hvllaf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4iD-Y9t7igJnBhfE1gDqGde9_yqfTEb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75781706047-93eponk2sl8aunn6i7rau7ns4hvllaf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
